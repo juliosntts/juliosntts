@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=023e8a&height=120&section=header](https://capsule-render.vercel.app/api?type=waving&height=155&section=header&reversal=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150"/>
 
 ## Hi, i am Júlio Santos, systems analysis and development student!
 
@@ -30,7 +30,7 @@ Projects:
 
 <div align="start">
  <<img width="42%" src="https://github-readme-stats.vercel.app/api?username=juliosntts&show_icons=true&theme=transparent">
- <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliosntts&show_icons=true&theme=transparent&layout=compact">
+ <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliosntts&show_icons=true&theme=transparent&layout=compact">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=155&section=footer&reversal=false"/>
