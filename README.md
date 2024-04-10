@@ -2,8 +2,6 @@
 
 ## Hi, i am Júlio Santos, systems analysis and development student!
 
-##
-
 <div>
 <img align="center" alt="Julio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
 <img align="center" alt="Julio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
