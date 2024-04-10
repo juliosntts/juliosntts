@@ -35,5 +35,3 @@ Projects:
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=155&section=footer&reversal=false"/>
 
-![Snake animation](https://github.com/juliosntts/juliosntts/blob/output/github-contribution-grid-snake.svg)
-
