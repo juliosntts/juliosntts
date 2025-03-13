@@ -24,7 +24,7 @@
 <div>
 Projects:
   <br></br>
-  <a href="https://github.com/juliosntts/AppWhatsApp>Whatsapp App ( Login and Email )</a>
+  <a href="https://github.com/juliosntts/AppWhatsApp">Whatsapp App ( Login and Email )</a>
 <div>
 
 ##
